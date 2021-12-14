@@ -1,0 +1,13 @@
+Kod sekcji [ROOT] 
+
+numerZamówienia;nazwaKuriera;numerNadania;listaProduktów;
+[ZAMOWIENIA];[SPIS_PRODUKTOW];
+
+Kod sekcji [ZAMOWIENIA] 
+[numer_zamowienia];[ZAMOWIENIE_PACZKI];[ZAMOWIENIE_POZYCJE]
+
+Kod sekcji [ZAMOWIENIE_POZYCJE]
+"[produkt_nazwa];[ilosc]";
+
+Kod sekcji [ZAMOWIENIE_PACZKI]
+[kurier_nazwa];[numer_nadania];
